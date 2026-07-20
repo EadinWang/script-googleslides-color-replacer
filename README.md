@@ -1,6 +1,8 @@
-# Slides Color Replacer
+# Google Slides Custom Color Replacer
 
-Two Google Apps Script that replaces custom text colors across a Google Slides presentation (single or in bulk). Scans all slides including shapes, grouped shapes, and table cells — and swaps matching RGB text colors for new ones.
+Two Google Apps Script for bulk find-and-replace of custom text colors across a Google Slides presentation. Scans all slides including shapes, grouped shapes, and table cells — and swaps matching RGB text colors for new ones.
+
+> Currently in Google Slides, you can change themed colors at once through 'Edit theme', but not the custom colors.
  
 Two versions are included:
  
